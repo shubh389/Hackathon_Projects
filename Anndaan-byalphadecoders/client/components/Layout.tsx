@@ -73,14 +73,14 @@ const Layout = ({ children }: LayoutProps) => {
               <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>Email: hello@annadaan.org</li>
-                <li>Phone: +91 98765 43210</li>
-                <li>Address: New Delhi, India</li>
+                <li>Phone: +91 9128364783</li>
+                <li>Address: Kolkata, India</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p>
-              &copy; 2024 Annadaan. All rights reserved. Made with ❤️ for a
+              &copy; 2025 Annadaan. All rights reserved. Made with ❤️ for a
               hunger-free world.
             </p>
           </div>

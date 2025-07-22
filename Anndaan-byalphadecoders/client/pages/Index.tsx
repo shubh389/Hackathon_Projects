@@ -60,12 +60,10 @@ export default function Index() {
             {/* <p className="text-xl md:text-2xl text-white/90 mb-6 leading-relaxed italic">
               "The food you waste could be someone’s hope for the day."
             </p> */}
-
             <p className="text-xl md:text-2xl text-white/90 mb-6 leading-relaxed">
               With real-time tech, passionate volunteers, and community partnerships,
               we're turning food waste into nourishment and compassion.
             </p>
-
             <p className="text-xl md:text-2xl text-white/90 leading-relaxed italic">
               "Hunger isn't a lack of food. It's a failure to share."
             </p>
@@ -310,7 +308,7 @@ export default function Index() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white hover:text-orange-600 font-semibold py-4 px-8 text-lg"
+                className="border-white text-grey hover:bg-white hover:text-orange-600 font-semibold py-4 px-8 text-lg"
               >
                 <Users className="mr-2 h-5 w-5" />
                 Volunteer Now

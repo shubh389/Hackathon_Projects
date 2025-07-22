@@ -62,19 +62,19 @@ const About = () => {
         "Annadaan officially launches in kolkata , partnering with 25 NGOs and onboarding 150+ passionate volunteers. With our digital platform live, we begin bridging surplus food from donors to those who need it most—one meal at a time.",
     },
     {
-      year: "2024",
+      year: "2025",
       title: "Pilot Program",
       description:
         "Our pilot phase tackled real-world scenarios across 50 food events, successfully rescuing over 1,000 meals in just 6 months. The experience validated our idea and sparked a deeper commitment to fighting food waste through smart tech.",
     },
     {
-      year: "2024",
+      year: "2025",
       title: "Team Formation",
       description:
         "We brought together a driven team of student innovators and changemakers with skills in coding, design, logistics, and outreach. United by purpose, we began laying the foundation of what would become Annadaan.",
     },
     {
-      year: "2024, 30th july",
+      year: "2025, 30th july",
       title: "Concept Development",
       description:
         "The journey began with a simple yet powerful observation of food waste at college events. Fueled by empathy and research, the idea of a tech-powered food donation platform was born—Annadaan took its first breath.",
